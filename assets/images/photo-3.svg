@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Photograph 3 placeholder">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#403831"/><stop offset="1" stop-color="#968876"/></linearGradient></defs>
+  <rect width="1200" height="675" fill="url(#g)"/>
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="3" stroke-linecap="round">
+    <path d="M80 560h220l60-60h180l50 50h150l60-60h300"/><path d="M80 140h160l50 50h250l60-60h220l50 50h210"/><path d="M600 80v520"/>
+  </g>
+  <text x="600" y="360" text-anchor="middle" font-family="Georgia, serif" font-size="44" fill="#ffffff">Frame 03</text>
+  <text x="600" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#ffffff" fill-opacity="0.8">Replace with your own image</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 800" role="img" aria-label="Gallery placeholder">
+  <rect width="100%" height="100%" fill="#2E2C29"/>
+  <g fill="none" stroke="#8A5A3C" stroke-width="3" stroke-linecap="round" opacity="0.9">
+    <path d="M40 300h120l40-40h100l30 30h80l40-40h150"/>
+    <path d="M40 90h90l30 30h140l40-40h120l30 30h110"/>
+  </g>
+  <text x="50%" y="52%" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="34" fill="#E6E5DF">Event photo</text>
+</svg>

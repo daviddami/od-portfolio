@@ -1,0 +1,452 @@
+{
+  "$schema_note": "Content model for the portfolio. Each top-level key is an entity collection rendered on a page. Edit this file and mirror changes in the HTML — the site is static and contains no JavaScript to fetch it.",
+  "site": {
+    "id": "site-001",
+    "title": "Olokoba David Oluwadamilola — Future Computer Engineer",
+    "base_url": "https://YOUR-USERNAME.github.io/portfolio/",
+    "language": "en",
+    "last_updated": "2026-09-02",
+    "copyright_year": 2026,
+    "author_id": "person-001"
+  },
+  "profile": {
+    "id": "person-001",
+    "name": "Olokoba David Oluwadamilola",
+    "headline": "Detail-oriented Computer Engineering student with a background in technology, creative media and community engagement",
+    "tagline": "Future Computer Engineer and Creative",
+    "location": "Zaria, Kaduna State, Nigeria",
+    "email": "nicedavdami@gmail.com",
+    "phone": "09068674235",
+    "image_url": "assets/images/portrait.jpg",
+    "summary": "Final-year Computer Engineering student at Ahmadu Bello University with practical skills in Python programming, IT support, hardware troubleshooting and network support. Lead Photographer (Damipictures) and Head of Technical Unit at TEDx Samaru.",
+    "social": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/in/ndavidolokoba"
+      },
+      {
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/damipictures/"
+      },
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/YOUR-USERNAME"
+      }
+    ],
+    "first_name": "David",
+    "last_name": "Olokoba",
+    "middle_name": "Oluwadamilola",
+    "name_order": "last, first, middle"
+  },
+  "education": [
+    {
+      "id": "edu-001",
+      "institution": "Ahmadu Bello University",
+      "qualification": "B.Eng Computer Engineering",
+      "start_date": "2021-01",
+      "end_date": "2027-01",
+      "status": "In progress",
+      "location": "Zaria, Kaduna State, Nigeria",
+      "description": "Core modules in digital electronics, microprocessor systems, computer networks, programming, data communications and engineering mathematics.",
+      "highlights": [
+        "Member of Enactus ABU, 2025 to 2026",
+        "Head of Technical Unit, TEDx Samaru, 2024 to 2026",
+        "Recipient of Letter of Recognition, 2026"
+      ]
+    },
+    {
+      "id": "edu-002",
+      "institution": "School of Basic and Remedial Studies",
+      "qualification": "Remedial Studies (pre-degree)",
+      "start_date": "2018-09",
+      "end_date": "2019-08",
+      "status": "Completed",
+      "location": "Funtua, Katsina State, Nigeria",
+      "description": "Pre-degree science programme covering mathematics, physics and chemistry.",
+      "highlights": [
+        "Completed August 2019"
+      ]
+    },
+    {
+      "id": "edu-003",
+      "institution": "Rehoboth Academy",
+      "qualification": "Secondary School Certificate",
+      "start_date": "2011-09",
+      "end_date": "2017-07",
+      "status": "Completed",
+      "location": "Nigeria",
+      "description": "Senior secondary education with a science focus.",
+      "highlights": [
+        "Completed July 2017"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-001",
+      "role": "Volunteer",
+      "organisation": "TEDx Samaru",
+      "location": "Zaria, Kaduna State, Nigeria",
+      "start_date": "2024-01",
+      "end_date": "2026-08",
+      "duties": [
+        "Collaborated with volunteers to develop engaging activities for community members.",
+        "Assisted in organizing community outreach events to raise awareness for local initiatives.",
+        "Supported the team in distributing resources and materials to individuals in need.",
+        "Participated in training sessions to enhance knowledge of the organization's mission and values.",
+        "Coordinated logistics for events, ensuring smooth execution and participant satisfaction.",
+        "Maintained clean, neat and operational facilities to serve program needs."
+      ]
+    },
+    {
+      "id": "exp-002",
+      "role": "Intern",
+      "organisation": "PTDF",
+      "location": "Abuja, FCT, Nigeria",
+      "start_date": "2025-07",
+      "end_date": "2025-12",
+      "duties": [
+        "Supported the team in preparing reports and presentations for stakeholders.",
+        "Assisted in data collection and analysis for project evaluations.",
+        "Coordinated scheduling for project meetings and events.",
+        "Provided administrative support, ensuring timely communication among team members."
+      ]
+    },
+    {
+      "id": "exp-003",
+      "role": "Volunteer",
+      "organisation": "KAFART",
+      "location": "Kaduna, Kaduna State, Nigeria",
+      "start_date": "2024-11",
+      "end_date": "2024-11",
+      "duties": [
+        "Learned operational procedures for effective resource management during events.",
+        "Supported event organizers in the planning and execution of various events, ensuring smooth operations."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "id": "skill-group-001",
+      "category": "Programming and web",
+      "items": [
+        {
+          "name": "Python",
+          "level": 3,
+          "level_label": "Proficient"
+        },
+        {
+          "name": "HTML5, CSS3 and JSON",
+          "level": 3,
+          "level_label": "Proficient"
+        },
+        {
+          "name": "C / C++",
+          "level": 2,
+          "level_label": "Intermediate"
+        },
+        {
+          "name": "Git and GitHub",
+          "level": 2,
+          "level_label": "Intermediate"
+        }
+      ]
+    },
+    {
+      "id": "skill-group-002",
+      "category": "IT support and hardware",
+      "items": [
+        {
+          "name": "Hardware troubleshooting and repair",
+          "level": 3,
+          "level_label": "Proficient"
+        },
+        {
+          "name": "IT support and system setup",
+          "level": 3,
+          "level_label": "Proficient"
+        },
+        {
+          "name": "Network support and configuration",
+          "level": 2,
+          "level_label": "Intermediate"
+        },
+        {
+          "name": "Digital electronics and microcontrollers",
+          "level": 2,
+          "level_label": "Intermediate"
+        }
+      ]
+    },
+    {
+      "id": "skill-group-003",
+      "category": "Creative media and events",
+      "items": [
+        {
+          "name": "Photography and videography",
+          "level": 4,
+          "level_label": "Advanced"
+        },
+        {
+          "name": "Event logistics and coordination",
+          "level": 4,
+          "level_label": "Advanced"
+        },
+        {
+          "name": "Photo and video editing",
+          "level": 3,
+          "level_label": "Proficient"
+        },
+        {
+          "name": "Reports and presentations",
+          "level": 3,
+          "level_label": "Proficient"
+        }
+      ]
+    }
+  ],
+  "soft_skills": [
+    "Positive attitude",
+    "Teamwork and collaboration",
+    "Organized and efficient",
+    "Problem-solving",
+    "Event logistics",
+    "Event coordination",
+    "Photography and videography"
+  ],
+  "projects": [
+    {
+      "id": "proj-001",
+      "title": "TEDx Samaru Technical Production",
+      "date": "2026-08",
+      "category": "Events and AV",
+      "description": "Led the technical unit for TEDx Samaru events: stage audio, projection, lighting and live photography. Planned equipment lists, ran sound checks and coordinated a volunteer crew so talks started on time and recordings were usable.",
+      "technologies": [
+        "Audio-visual setup",
+        "Event logistics",
+        "Team coordination",
+        "Photography"
+      ],
+      "image_url": "assets/images/project-tedx.svg",
+      "repo_url": "https://www.instagram.com/damipictures/",
+      "role": "Head of Technical Unit"
+    },
+    {
+      "id": "proj-002",
+      "title": "Damipictures — Photography Portfolio",
+      "date": "2026-06",
+      "category": "Creative media",
+      "description": "An ongoing body of event, portrait and documentary photography published as Damipictures. Covers community events, campus life and TEDx Samaru, with editing and colour work done in Lightroom-style workflows.",
+      "technologies": [
+        "Photography",
+        "Videography",
+        "Editing",
+        "Visual storytelling"
+      ],
+      "image_url": "assets/images/project-photo.svg",
+      "repo_url": "https://www.instagram.com/damipictures/",
+      "role": "Lead Photographer"
+    },
+    {
+      "id": "proj-003",
+      "title": "PTDF Project Evaluation Data Analysis",
+      "date": "2025-12",
+      "category": "Data and reporting",
+      "description": "During my internship at PTDF I collected and cleaned project-evaluation data and used Python to summarise it into charts and tables for stakeholder reports and presentations.",
+      "technologies": [
+        "Python",
+        "Data analysis",
+        "Reporting",
+        "Presentations"
+      ],
+      "image_url": "assets/images/project-data.svg",
+      "repo_url": "https://github.com/YOUR-USERNAME",
+      "role": "Intern"
+    },
+    {
+      "id": "proj-004",
+      "title": "Personal Portfolio Website",
+      "date": "2026-09",
+      "category": "Web",
+      "description": "This site: eight responsive pages built with HTML5, CSS Grid/Flexbox and a JSON content model. No JavaScript — the mobile menu, project pop-ups and accordions are pure CSS. Validated with the W3C checkers and hosted on GitHub Pages.",
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "JSON",
+        "JSON-LD",
+        "GitHub Pages"
+      ],
+      "image_url": "assets/images/project-web.svg",
+      "repo_url": "https://github.com/YOUR-USERNAME/portfolio",
+      "role": "Sole developer"
+    }
+  ],
+  "hobbies": [
+    {
+      "id": "hobby-001",
+      "title": "Travelling",
+      "description": "Seeing new places, usually with a camera. Trips double as photography projects."
+    },
+    {
+      "id": "hobby-002",
+      "title": "Gaming",
+      "description": "Strategy and story-driven games. Good practice in problem-solving and patience."
+    },
+    {
+      "id": "hobby-003",
+      "title": "Movies",
+      "description": "Watching for cinematography as much as story — it feeds directly into my videography."
+    },
+    {
+      "id": "hobby-004",
+      "title": "Music",
+      "description": "A constant companion while editing photos and writing code."
+    },
+    {
+      "id": "hobby-005",
+      "title": "Research",
+      "description": "Reading up on new hardware, networking and creative tools, then trying them out."
+    },
+    {
+      "id": "hobby-006",
+      "title": "Volunteering",
+      "description": "Community work with TEDx Samaru, Enactus ABU and KAFART."
+    }
+  ],
+  "contact": {
+    "id": "contact-001",
+    "email": "nicedavdami@gmail.com",
+    "phone": "09068674235",
+    "location": "Zaria, Kaduna State, 810006, Nigeria",
+    "availability": "Open to internships and graduate roles from January 2027",
+    "preferred_channel": "email"
+  },
+  "organisations": [
+    {
+      "id": "org-001",
+      "name": "TEDx Samaru",
+      "relationship": "Volunteer, Head of Technical Unit"
+    },
+    {
+      "id": "org-002",
+      "name": "PTDF",
+      "relationship": "Intern"
+    },
+    {
+      "id": "org-003",
+      "name": "KARFART",
+      "relationship": "Volunteer"
+    },
+    {
+      "id": "org-004",
+      "name": "Enactus ABU",
+      "relationship": "Member"
+    },
+    {
+      "id": "org-005",
+      "name": "Ahmadu Bello University",
+      "relationship": "B.Eng student"
+    },
+    {
+      "id": "org-006",
+      "name": "Damipictures",
+      "relationship": "Lead Photographer"
+    },
+    {
+      "id": "org-007",
+      "name": "Rehoboth Academy",
+      "relationship": "Alumnus"
+    },
+    {
+      "id": "org-008",
+      "name": "SBRS Funtua",
+      "relationship": "Alumnus"
+    }
+  ],
+  "tools": [
+    "Python",
+    "C / C++",
+    "HTML5",
+    "CSS3",
+    "JSON",
+    "Git",
+    "Linux",
+    "Windows",
+    "Networking",
+    "Hardware repair",
+    "Photography",
+    "Videography",
+    "Lightroom",
+    "Premiere Pro"
+  ],
+  "services": [
+    {
+      "id": "svc-001",
+      "title": "IT support & troubleshooting",
+      "description": "Diagnosing and fixing hardware, software and network problems for people who need it working today."
+    },
+    {
+      "id": "svc-002",
+      "title": "Python & web builds",
+      "description": "Scripts, data summaries and clean static websites like this one."
+    },
+    {
+      "id": "svc-003",
+      "title": "Event technical production",
+      "description": "Sound, projection and lighting planned and run so the show starts on time."
+    },
+    {
+      "id": "svc-004",
+      "title": "Photography & video",
+      "description": "Event, portrait and documentary work that tells the story afterwards."
+    }
+  ],
+  "stats": [
+    {
+      "id": "stat-001",
+      "value": "2+",
+      "label": "Years volunteering"
+    },
+    {
+      "id": "stat-002",
+      "value": "4",
+      "label": "Projects delivered"
+    },
+    {
+      "id": "stat-003",
+      "value": "3",
+      "label": "Organisations served"
+    },
+    {
+      "id": "stat-004",
+      "value": "2027",
+      "label": "Expected graduation"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "photo-001",
+      "title": "Studio portrait",
+      "date": "2026",
+      "image_url": "assets/images/portrait-square.jpg"
+    },
+    {
+      "id": "photo-002",
+      "title": "Event photo (replace)",
+      "date": "",
+      "image_url": "assets/images/gallery-1.svg"
+    },
+    {
+      "id": "photo-003",
+      "title": "Portrait (replace)",
+      "date": "",
+      "image_url": "assets/images/gallery-2.svg"
+    },
+    {
+      "id": "photo-004",
+      "title": "Documentary frame (replace)",
+      "date": "",
+      "image_url": "assets/images/gallery-3.svg"
+    }
+  ]
+}
